@@ -2,7 +2,15 @@
 
 A personalized Neovim setup using [Lazy.nvim](https://github.com/folke/lazy.nvim) as the plugin manager, focused on providing a productive development environment with modern features.
 
+## Preview
+
+![Neovim Preview](./screenshots/previewterminal.jpeg)
+
 ## Features
+
+![Neovim NvimTree](./screenshots/previewtreenvim.jpeg)
+
+![Neovim NvimTree2](./screenshots/previewtreenvim2.jpeg)
 
 ### Core Enhancements
 - **Leader Key**: Spacebar (`<SPACE>`) as leader
