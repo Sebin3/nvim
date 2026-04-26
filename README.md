@@ -105,6 +105,14 @@ Since this is already configured in `~/.config/nvim`, simply ensure you have:
 
 Plugins will be automatically installed by Lazy.nvim on first launch.
 
+## Compatibility & OS Support
+
+This configuration is **Linux-Focused**, specifically optimized for **Ubuntu-based distributions** (tested on **Ubuntu 25.10**/**Zero OS**).
+
+While Neovim is cross-platform, this setup relies on a Unix-like environment for the best experience
+
+
+
 ## Keybindings
 
 ### Navigation
